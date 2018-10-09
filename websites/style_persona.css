@@ -194,14 +194,14 @@ border-right-color: rgb(246, 192, 137);
 
 
 
-.per_1, .per_2{
+.per_1, .per_2, .per_3{
   background-color: rgb(255, 255, 255);
-
+  float: left;
   width: 15em;
   height: 17em;
   padding: 0;
   /* background-color: rgb(183, 215, 208); */
-  margin: 8em;
+  margin-left: 12%;
   margin-top: 0;
   border: .5em solid;
   border-color: rgb(128, 200, 171);
@@ -211,16 +211,19 @@ border-right-color: rgb(246, 192, 137);
 
 }
 
-.per_1{
+/* .per_1{
   float: left;
-  margin-left: 20em;
 }
 
 .per_2{
-  float: right;
-  margin-right: 20em;
+  float: left;
 
 }
+
+.per_3{
+  float: left;
+
+} */
 
 /* ------------------------------------------------------------- */
 .pr_body_1 {
