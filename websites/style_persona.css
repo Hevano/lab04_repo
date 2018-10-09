@@ -1,7 +1,10 @@
 body{
   text-align: center;
-  /* background-image: url(./images/carrot.jpg); */
-}
+  /*background-image: url(./images/team_veggie_logo.png);
+  background-repeat: repeat; 
+  background-size: 10%;
+  */
+  }
 .main_body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
